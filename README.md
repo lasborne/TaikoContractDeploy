@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# TaikoContractDeploy
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+A simple deployment and implementation of a smart contract for Taiko L2 and can be forked for other blockchains.
 
 Try running some of the following tasks:
 
